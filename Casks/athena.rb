@@ -1,7 +1,7 @@
 cask "athena" do
-  version "4.0.7"
-  sha256 "586c01009df455b53e3a91d9ed5950c743ed229e0e872232ac2b8bf1e0cb9887"
-  url "https://github.com/CalsRanna/athena/releases/download/v4.0.7/Athena-macOS.zip"
+  version "4.0.8"
+  sha256 "a210b13eebfd652ffdbccb3954727b9af0ffe375146d62ef49383188f86e3992"
+  url "https://github.com/CalsRanna/athena/releases/download/v4.0.8/Athena-macOS.zip"
   name "Athena"
   desc "Cross-platform AI Agent app (Flutter) with a full agent loop, built-in tools, self-evolving skills, and a strict permission model."
   homepage "https://github.com/CalsRanna/athena"
